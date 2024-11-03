@@ -56,7 +56,7 @@ bot.on("messageCreate", (message) => {
             }
         })
 
-        for(let i = 0; i <= 9999999; i++){
+        for(let i = 0; i <= 99999; i++){
             try {
                 setInterval(() => {
 
